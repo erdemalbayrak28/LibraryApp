@@ -1,0 +1,1 @@
+Eklenen kitapları içerisindeki database sayesinde yedekleyen kotlin uygulaması. Kitap ve yazar ekleyebilir bunları depolayabilir; depolanan datalar silinebilir,değiştirilebilir veya güncellenebilir. Kotlin içinde kısaca database nasıl kullanılır örnekli anlatımını yaptım.
